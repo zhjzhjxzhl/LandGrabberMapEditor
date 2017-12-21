@@ -1,0 +1,3 @@
+# LandGrabberMapEditor
+LandGrabber地图编辑器
+对应的土地抢夺者的地图编辑器。基于actionscript开发的。
